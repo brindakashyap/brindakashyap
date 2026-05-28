@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Brinda 👋
 
-<!--
-**brindakashyap/brindakashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science (Data Science) student at Manipal University Jaipur.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Structures & Algorithms
+* Machine Learning
+* Web Development
+
+## Tech Stack
+
+* C++
+* Java
+* Python
+* JavaScript
+* HTML/CSS
+
+## Projects
+
+* Shortlistr — AI-powered resume screening system
+* MapifyMUJ — Campus navigation platform for MUJ
+
+Currently learning:
+
+* DSA
+* Full-stack development
+* ML project building
